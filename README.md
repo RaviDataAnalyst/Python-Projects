@@ -1,1 +1,2 @@
 1. Utilize Python to analyze Diwali sales data, extracting valuable insights to drive informed business decisions. The analysis will focus on state-wise sales trends, customer demographics (occupation, age, gender), material preferences, and product distribution based on sales.
+2. Conducted an extensive analysis of Spotify data using Python to extract meaningful insights into the relationships between various music attributes. The project aimed to uncover patterns related to time, genres, and the correlation between features such as popularity, loudness, and energy.
